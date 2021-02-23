@@ -1,5 +1,4 @@
 
-
 .head{
     height: 500px;
     width: auto;
@@ -27,13 +26,31 @@
 
 }
 #imageabout {
-    display: block;
+
+    display: inline-block;
     margin: 50px;
     padding: 10px;
 
 }
+#block1about {
+    /* display: block; */
+    margin: 5px;
+    padding: 10px;
+
+}
+#block2about {
+    /* display: block; */
+    margin: 5px;
+    padding: 10px;
+
+}
+.para1
+{
+    margin: 5px;
+    padding: 10px;
+}
 .para2
 {
-    margin: 30px;
+    margin: 5px;
     padding: 10px;
 }
