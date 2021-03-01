@@ -41,20 +41,26 @@
 
     #para1 {
         font-size: 15px;
-        color: rgb(73, 25, 17);
+        color: rgb(2, 2, 43);
+        font-size: 90%;
+        line-height: 1.5em;
     }
 
     .mainpara {
 
-        color: rgb(51, 45, 12);
+        color: rgb(46, 39, 1);
         margin: 5px;
         padding: 10px;
+        font-size: 90%;
+        line-height: 1.5em;
     }
     .para2 {
 
-        color: rgb(51, 45, 12);
+        color: rgb(8, 2, 41);
         margin: 5px;
         padding: 10px;
+        font-size: 90%;
+        line-height: 1.5em;
     }
 
     .container {
@@ -94,6 +100,15 @@
         color: silver;
         text-align: center;
         font-size: 15px;
+        font-family: cursive;
+    }
+    .headings{
+    
+        /* background-color: rgb(3, 3, 59); */
+        color: rgb(11, 3, 41);
+        text-align: center;
+        font-size: 15px;
+        font-weight: bold;
         font-family: cursive;
     }
 
